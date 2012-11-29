@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  zip: 1
+  when: 2012-11-28 15:18:25
+
+two:
+  zip: 1
+  when: 2012-11-28 15:18:25
